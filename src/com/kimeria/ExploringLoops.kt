@@ -2,7 +2,7 @@ package com.kimeria
 
 import kotlin.math.pow
 
-fun main() {
+fun main(args: Array<String>) {
     /*
     var x: Int = 0
 
